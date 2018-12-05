@@ -7,10 +7,10 @@ import csv
 from datetime import timedelta
 
 #Twitter API credentials
-consumer_key = "O9DBU6v84ZCyv340KEJ7Y0Lpn"
-consumer_secret = "VMAm3vyzmovirstfya3QXpaTEQad9H6jKpYVpI364vyhrsHTJo"
-access_key = "1316066118-ri719bWWZCP2V5WWV14rIw4C0EuMqWinBqNp7nV"
-access_secret = "hpTSXiNU1cajYzHY7ED8aIHPoXPidH8sVlvEF1Lk9WKBv"
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 tweetlink ="https://twitter.com/KaitlynLandgraf/status/"
 
